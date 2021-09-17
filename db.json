@@ -1,0 +1,28 @@
+{
+  "data": [
+  {
+    "name": "MARK",
+    "username": "makimaki02",
+    "email": "marklee02@gmail.com",
+    "address": "Canada"
+  },
+  {
+    "name": "JENO",
+    "username": "jenonct2000",
+    "email": "jeno@gmail.com",
+    "address": "Korea"
+  },
+  {
+    "name": "JAEMIN",
+    "username": "nananct2000",
+    "email": "jaemin@gmail.com",
+    "address": "Korea"
+  },  
+  {
+    "name": "RENJUN",
+    "username": "leonjwi2000",
+    "email": "renjun@gmail.com",
+    "address": "China"
+  }
+]
+}
